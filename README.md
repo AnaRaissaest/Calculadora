@@ -1,1 +1,5 @@
 # Calculadora em Python sem interface
+
+expressao_mat = input('DIGITE UMA EXPRESSAO MATEMÁTICA:')
+resultado = eval (expressao_mat)
+print('O RESULTADO É', resultado)
