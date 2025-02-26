@@ -1,1 +1,1 @@
-# Calculadora
+# Calculadora em Python sem interface
